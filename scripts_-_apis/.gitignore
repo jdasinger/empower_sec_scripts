@@ -1,2 +1,4 @@
 *.json
 *.pyc
+README.md
+.DS_Store
